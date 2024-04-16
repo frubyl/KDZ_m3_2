@@ -1,0 +1,11 @@
+D:\visualstudio projects\KDZ_2_m3\ClassLibrary\bin\Debug\net6.0\ClassLibrary.deps.json
+D:\visualstudio projects\KDZ_2_m3\ClassLibrary\bin\Debug\net6.0\ClassLibrary.dll
+D:\visualstudio projects\KDZ_2_m3\ClassLibrary\bin\Debug\net6.0\ClassLibrary.pdb
+D:\visualstudio projects\KDZ_2_m3\ClassLibrary\obj\Debug\net6.0\ClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\visualstudio projects\KDZ_2_m3\ClassLibrary\obj\Debug\net6.0\ClassLibrary.AssemblyInfoInputs.cache
+D:\visualstudio projects\KDZ_2_m3\ClassLibrary\obj\Debug\net6.0\ClassLibrary.AssemblyInfo.cs
+D:\visualstudio projects\KDZ_2_m3\ClassLibrary\obj\Debug\net6.0\ClassLibrary.csproj.CoreCompileInputs.cache
+D:\visualstudio projects\KDZ_2_m3\ClassLibrary\obj\Debug\net6.0\ClassLibrary.dll
+D:\visualstudio projects\KDZ_2_m3\ClassLibrary\obj\Debug\net6.0\refint\ClassLibrary.dll
+D:\visualstudio projects\KDZ_2_m3\ClassLibrary\obj\Debug\net6.0\ClassLibrary.pdb
+D:\visualstudio projects\KDZ_2_m3\ClassLibrary\obj\Debug\net6.0\ref\ClassLibrary.dll
